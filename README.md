@@ -1,4 +1,4 @@
-# This is a UC Berkeley Data200 Course project
+# Data from EPA Green House Gas Reporting program
 In this project, the two team member 
 - conducted research on the historical Greenhouse Gas (GHGs) emissions data from direct emitters with respect to three 
 features (company, sector and state); 
